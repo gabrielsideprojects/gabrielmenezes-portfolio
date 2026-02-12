@@ -60,10 +60,6 @@ export default function HeroSection() {
                     Resume
                     <ArrowRightIcon className="group-hover:translate-x-0.5 transition ml-1 size-5 inline-flex" />
                 </button>
-              
-                <button className="border border-gray-400 hover:bg-gray-100/70 px-6 py-2.5 rounded-lg ml-4">
-                    Connect me
-                </button>
             </div>
             <div className="space-x-6 mt-10">
                 <a

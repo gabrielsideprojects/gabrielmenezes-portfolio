@@ -4,9 +4,9 @@ export default function Footer() {
             <p>
                 © {new Date().getFullYear()}{" "}
                 <a href="https://prebuiltui.com?utm_source=ryan">
-                    PrebuiltUI
+                    Done with ❤️ and a lot of ☕
                 </a>
-                . All rights reserved.
+             
             </p>
         </footer>
     );

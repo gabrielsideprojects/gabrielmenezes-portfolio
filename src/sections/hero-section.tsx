@@ -2,10 +2,9 @@ import { ArrowRightIcon } from "lucide-react";
 
 export default function HeroSection() {
 
-    const pdfUrl = '../../public/Gabriel-Menezes-da-Silva-CV.pdf'; // Relative path from 'public' folder
-
+    const pdfUrl = '/Gabriel-Menezes-da-Silva-CV.pdf';
     const handleOpenPdf = () => {
-      // Open the PDF in a new browser tab
+
       window.open(pdfUrl, '_blank');
     };
   
